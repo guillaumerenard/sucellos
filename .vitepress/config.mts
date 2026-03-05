@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Sucellos",
   description: "Le livre de recettes numérique de Sucellos — fermentation, boulange et festins.",
   lang: 'fr-FR',
+  base: '/sucellos/',
   themeConfig: {
     nav: [
       { text: 'Accueil', link: '/' },
