@@ -1,0 +1,10 @@
+# Dépendances
+node_modules/
+
+# VitePress
+.vitepress/cache/
+.vitepress/dist/
+
+# OS
+.DS_Store
+Thumbs.db
