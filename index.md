@@ -20,9 +20,11 @@ features:
     link: /recettes/boulangerie/
   - icon: 🥘
     title: Plats
-    details: Mijotés, rôtis, gratins — les recettes qui nourrissent et rassemblent. Bientôt disponible.
+    details: Mijotés, rôtis, gratins et pâtes — les recettes qui nourrissent et rassemblent.
+    link: /recettes/plats/
   - icon: 🍮
     title: Desserts
-    details: Du sucré qui tient au corps et aux souvenirs. Bientôt disponible.
+    details: Gâteaux, crèmes et douceurs — du sucré qui tient au corps et aux souvenirs.
+    link: /recettes/desserts/
 ---
 
