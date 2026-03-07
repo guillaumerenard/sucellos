@@ -17,7 +17,8 @@ export default defineConfig({
         {
           text: '🦘 Plats',
           items: [
-            { text: 'Lasagnes à la bolognaise', link: '/recettes/plats/lasagnes-bolognaise' }
+            { text: 'Lasagnes à la bolognaise', link: '/recettes/plats/lasagnes-bolognaise' },
+            { text: 'Églefin au four, légumes au fenouil', link: '/recettes/plats/egelfin-legumes-fenouil' }
           ]
         },
         {
